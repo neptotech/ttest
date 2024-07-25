@@ -5,7 +5,6 @@ export const SITE: Site = {
   author: "Kanat Bektursyn",
   desc: "My Own Software Engineering Journey Primarily Focused on JavaScript",
   title: "Kanat's",
-  ogImage: "main.webp",
   lightAndDarkMode: true,
   postPerPage: 4,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
